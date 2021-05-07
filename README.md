@@ -1,4 +1,4 @@
-# GreenMyNFT
+# GreenMyNFT.org
 Green NFT Hackathon Entry for Awareness Prize
 
 See www.GreenMyNFT.org for the awareness raising NFT offset portal that allows people to estimate their NFT carbon emissions and compare them to other activities.
